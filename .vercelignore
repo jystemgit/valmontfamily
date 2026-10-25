@@ -1,0 +1,8 @@
+private/
+confidential/
+internal/
+.env*
+*.pem
+*.key
+.DS_Store
+assets/ValmontEmblem.png

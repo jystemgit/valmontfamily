@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example
+.vercel/
+.DS_Store
+
+# Non-public Family material must never live in the deployable project
+private/
+confidential/
+internal/
+*.pem
+*.key
